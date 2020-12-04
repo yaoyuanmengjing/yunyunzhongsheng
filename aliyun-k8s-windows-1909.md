@@ -16,13 +16,6 @@ kubernetes ACK 托管版 1.18.8 ， docker   19.03.5 ，worker节点操作系统
 
 此时去阿里云官方镜像仓库查询确实没有1909版本的镜像，怀疑是阿里云BUG，提前将所需的版本功能发布出来。联系阿里云售后确认确实如此。
 
-## 基础环境
-
-kubernetes ACK 托管版 1.18.8
-
-docker   19.03.5
-
-worker节点操作系统  Windows Sever Core，version 1909
 
 ## 解决方案
 
