@@ -1,4 +1,4 @@
-# 阿里云kubernetes windows worker节点无法获取pause-windows容器镜像
+# 阿里云k8s windows节点无法获取pause-windows镜像 
 
 ## 现象
 
