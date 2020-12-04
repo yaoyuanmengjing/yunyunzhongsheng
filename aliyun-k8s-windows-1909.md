@@ -1,4 +1,4 @@
-# 记录一次阿里云kubernetes windows节点POD无法正常启动
+# 阿里云kubernetes windows worker节点无法获取pause-windows容器镜像
 
 ## 现象
 
